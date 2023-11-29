@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DoggyDate</string>
+    <string name="Bienvenida">Bienvenido a DoggyDate</string>
+    <string name="nombre">Introduce tu usuario...</string>
+    <string name="creditos">Iniciar</string>
+    <string name="info">%s, estás usando la versión 1 de DoggyDate</string>
+    <string name="contenido">En esta version se ha añadido un boton de contacto con el desarrollador para los problemas encontrados"</string>
+</resources>
